@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/currency
+    username: cur
+    password: cur5
+
+server:
+  port: 8083
